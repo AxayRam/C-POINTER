@@ -1,7 +1,7 @@
-Instructions
+#Instructions
 
 
-1.Create a code space (reuse if already created):
+1. Create a code space (reuse if already created):
    code -> codespaces -> + button!
 
 2. Add code in main.c in the main() function.\
