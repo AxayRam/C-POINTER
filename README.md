@@ -2,8 +2,7 @@
 
 
 1. Create a code space (reuse if already created):
-   code -> codespaces -> + button!
-
+   Code → Codespaces → + Button!
 2. Add code in main.c in the main() function.\
 
 3. Use gcc main.c to compile the code.
