@@ -11,5 +11,16 @@
 
 
 #REPO.
+______________
+1.Baremetal Code
 
-https://github.com/google/esh
+  https://github.com/google/esh
+
+
+2. FreeRTOS LINK GITHUB
+
+   https://github.com/FreeRTOS/FreeRTOS
+
+3. LINUX
+
+   
