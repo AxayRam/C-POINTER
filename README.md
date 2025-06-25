@@ -14,7 +14,7 @@
 ______________
 1.Baremetal Code
 
-  https://github.com/google/esh
+   https://github.com/google/esh
 
 
 2. FreeRTOS LINK GITHUB
@@ -22,5 +22,7 @@ ______________
    https://github.com/FreeRTOS/FreeRTOS
 
 3. LINUX
+
+    https://github.com/torvalds/linux
 
    
